@@ -6,7 +6,7 @@ function HomePage() {
 
   return (
     <div className="home-page">
-      <h2>Welcome to ScheduleSync</h2>
+      <h2>Welcome to ScheduleSync 🎉</h2>
       <p>
         Share your schedule and coordinate events with friends easily.
         Create detailed time blocks showing when you're available or busy, and let friends see your schedule when planning events.
